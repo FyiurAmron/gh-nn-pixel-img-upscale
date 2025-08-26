@@ -1,2 +1,2 @@
 # gh-nn-pixel-img-upscale
-![sword](./sword.png-wrapper.svg)
+![sword](./sword.png-wrapper256.svg)
